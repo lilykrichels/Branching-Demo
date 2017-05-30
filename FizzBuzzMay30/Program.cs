@@ -17,7 +17,7 @@ namespace FizzBuzzMay30
             Console.WriteLine("Enter a number.");
             int Num = int.Parse(Console.ReadLine());
 
-            for (int num = 1; num < 101; num++)
+            for (int num = 1; num < 201; num++)
             {
                 if (num % 3 == 0 && num % 5 == 0)
                 {
