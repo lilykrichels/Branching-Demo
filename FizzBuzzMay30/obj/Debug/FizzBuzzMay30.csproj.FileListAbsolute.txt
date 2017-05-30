@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzMay30\FizzBuzzMay30\bin\Debug\FizzBuzzMay30.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzMay30\FizzBuzzMay30\bin\Debug\FizzBuzzMay30.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzMay30\FizzBuzzMay30\bin\Debug\FizzBuzzMay30.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzMay30\FizzBuzzMay30\obj\Debug\FizzBuzzMay30.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzMay30\FizzBuzzMay30\obj\Debug\FizzBuzzMay30.pdb
